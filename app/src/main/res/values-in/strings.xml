@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pertemuan 7 Tabbed Navigation &amp; Localization 20.21.1491</string>
+    <string name="tab_text_1">Tayang</string>
+    <string name="tab_text_2">Favorit</string>
+    <string name="textview">TextView</string>
+    <string name="favorite_fragment">Favorite Fragment</string>
+</resources>
